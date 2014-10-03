@@ -14,7 +14,7 @@ This is a Google Chrome Extension which allows to show you a "table of content" 
 
 ## Download
 
-> [Google Chrome / Chromium](https://chrome.google.com/webstore/detail/github-toc/)
+> [Google Chrome / Chromium](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek)
 
 ## License
 
