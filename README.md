@@ -12,7 +12,7 @@ This is a Google Chrome Extension which allows to show you a "table of content" 
 ### Wiki
 ![](https://raw.githubusercontent.com/summerblue/github-toc/master/screenshots/screenshot-2.png)
 
-## Google Chrome Web Store
+## Download
 
 > [Google Chrome / Chromium](https://chrome.google.com/webstore/detail/github-toc/)
 
