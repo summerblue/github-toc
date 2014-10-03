@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "github-toc",
+  "version": "1.0",
+  "author": "Charlie Jade <summer.alex07@gmail.com> (http://summerblue.me)",
+  "description": "Generate TOC(Table of Content) for Github readme and Github Wiki",
+  "icons": {
+    "16": "img/github-toc-16.png",
+    "48": "img/github-toc-48.png",
+    "128": "img/github-toc-128.png"
+  },
+  "permissions": [],
+  "content_scripts": [{
+    "matches": ["https://github.com/*"],
+    "js": [
+      "scripts/jquery-2.1.1.min.js", 
+      "scripts/toc.min.js", 
+      "scripts/github-toc.js"
+    ],
+    "css": ["css/github-toc.css"]
+  }]
+}
